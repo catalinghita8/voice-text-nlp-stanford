@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A370DB</color>
+    <color name="colorPrimaryDark">#9370DB</color>
+    <color name="colorAccent">#4da5ff</color>
+
+    <color name="white">#ffffff</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+    <color name="dark_blue">#00E5EE</color>
+    <color name="black">#000000</color>
+    <color name="grey">#f2f2f2</color>
+    <color name="light_grey">#339d9d9d</color>
+
+</resources>
+
+
